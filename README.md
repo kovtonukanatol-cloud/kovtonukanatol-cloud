@@ -1,12 +1,13 @@
+
 <p align="center">
   <img src="./banner.png" width="100%" alt="striterr">
-</p> 
-
-<h1 align="center">striterr</h1>
+</p>
 
 <p align="center">
   Network Administration · Cybersecurity · Linux
 </p>
+
+---
 
 ### About
 
@@ -20,15 +21,17 @@ IT student interested in network infrastructure, Linux systems, cybersecurity an
 
 ### Technologies
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,bash,docker,git,github,nginx,mysql" />
 </p>
 
-### GitHub
+### GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kovtonukanatol-cloud&show_icons=true&theme=transparent&hide_border=true&hide_title=true" height="150">
 </p>
+
+---
 
 <p align="center">
   <i>Understand. Build. Secure.</i>
