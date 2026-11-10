@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 
 # Hi 👋, I'm striterr
 
