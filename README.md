@@ -8,10 +8,6 @@
   Network Administration · Cybersecurity · Linux
 </p>
 
-<p align="center">
-  <img src="images/banner.png" width="100%" alt="Profile banner">
-</p>
-
 ### About
 
 IT student interested in network infrastructure, Linux systems, cybersecurity and automation.
