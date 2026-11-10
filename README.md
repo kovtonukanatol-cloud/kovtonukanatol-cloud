@@ -24,7 +24,3 @@ IT student interested in network infrastructure, Linux systems, cybersecurity an
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,bash,docker,git,github,nginx,mysql" />
 </p>
-
-### GitHub Stats
-
-
